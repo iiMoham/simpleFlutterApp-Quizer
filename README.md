@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description 
 
-This project is a starting point for a Flutter application.
+This Dart code defines a QuizBrain class that manages a quiz game's logic and tracks questions. The class is designed to handle a set of multiple-choice questions, where each question consists of a statement and a corresponding boolean answer (true or false). Here's a breakdown of its functionality:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![quizzler-demo](https://github.com/user-attachments/assets/41b25e6e-1dcc-4848-9fad-315e99fd7a43)
